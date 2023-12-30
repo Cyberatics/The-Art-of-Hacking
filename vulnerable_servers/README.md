@@ -23,6 +23,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 * Vicnum: http://vicnum.ciphertechs.com
 * WebGoat: https://github.com/WebGoat/WebGoat
 * Web Security Dojo: https://www.mavensecurity.com/resources/web-security-dojo
+* Pentest-Ground: https://pentest-ground.com
 
 ## Docker Resources
 
